@@ -97,8 +97,6 @@ Execute the program
   </table>
   <br><br>
 
-
-
   <ol  type="i">
     
       <li>19AI414 - FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</li>
@@ -107,10 +105,9 @@ Execute the program
       <li>19CY205 - PRINCIPLES OF CHEMISTRY IN ENGINEERING</li>
       <li>19EN612 - GERMAN BASICS</li>
       
-
   </ol>
 </body>
 </html>
 ```
 # OUPUT
-![OUTPUT](./image/timetable.png)
+![OUTPUT](./images/timetable.png)
