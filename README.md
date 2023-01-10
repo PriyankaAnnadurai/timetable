@@ -109,6 +109,12 @@ Execute the program
 </body>
 </html>
 ```
+<<<<<<< HEAD
 # OUTPUT
 ![OUTPUT](./image/timetable.png)
 ![HTML VALIDATOR](./image/htmlvalidator.png)
+=======
+
+# OUTPUT
+![OUTPUT](./image/timetable.png)
+>>>>>>> 18de8bd779b9ef481777b82ad7d7d41c18b1cecc
