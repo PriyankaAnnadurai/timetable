@@ -109,5 +109,10 @@ Execute the program
 </body>
 </html>
 ```
+<<<<<<< HEAD
 # OUPUT
 ![OUTPUT](./image/timetable.png)
+=======
+# OUTPUT
+![OUTPUT](./images/timetable.png)
+>>>>>>> e49bb877f98a60c4290307330bf727bea7fbd1ad
