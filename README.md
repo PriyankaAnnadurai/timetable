@@ -110,4 +110,4 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](./images/timetable.png)
+![OUTPUT](./image/timetable.png)
