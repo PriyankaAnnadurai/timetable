@@ -114,3 +114,5 @@ Execute the program
 ![OUTPUT](./image/timetable.png)
 ![HTML VALIDATOR](./image/htmlvalidator.png)
 
+# RESULT
+Thus the webpage is successfully developed for displaying the timetable.
